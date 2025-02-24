@@ -6,7 +6,7 @@
 
 1. In a file called EvenOdd.java, create an application that prompts the user to enter an integer. 
 2. Pass the integer to a method that determines weather the integer is even or odd and returns a boolean value. 
-3. In the main method, display weather the number is even or odd.
+3. In the main method, display whether the number is even or odd.
 
 ### ShadyRestRoom
 
