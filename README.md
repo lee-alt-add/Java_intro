@@ -1,5 +1,9 @@
 # Working with conditionals, methods
 
+## Fork The Repo
+1. Please fork the repo for now
+2. we will start using branching on the second iteration!
+
 ## Exercises
 
 ### EvenOdd
